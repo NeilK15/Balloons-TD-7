@@ -4869,6 +4869,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   grid: {fileID: 1385114718}
   cursor: {fileID: 1962934090}
+  tilemap: {fileID: 45739171}
+  tiles:
+  - {fileID: 11400000, guid: 3806abe812ba931428e3d26862e8f07f, type: 2}
 --- !u!4 &1569273897
 Transform:
   m_ObjectHideFlags: 0
